@@ -9,4 +9,4 @@ plot_model is a API for model visualization reference to [tensorflow.keras.utils
 Check their repository for details.
  ------------------
 
-This version of the code has been updated to work with Tensorflow 2.10 (some bugs still persist when using expand_nested=True).
+This version of the code has been updated to work with Tensorflow 2.10.
